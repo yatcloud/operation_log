@@ -88,5 +88,10 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/yatcloud/operation_log</url>
+		</repository>
+	</distributionManagement>
 </project>

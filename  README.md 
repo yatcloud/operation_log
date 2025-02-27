@@ -1,3 +1,0 @@
-1. 請複製 `application.properties.example` 為 `application.properties`
-2. 設定你的資料庫帳號密碼
-3. 然後啟動專案
